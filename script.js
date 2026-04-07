@@ -89,6 +89,34 @@ document.addEventListener('DOMContentLoaded', () => {
                 { title: "Challenge Lab: Static", type: "Lab", difficulty: "Medium", id: "bdd3ca9e-085d-4562-9d5c-3a7eac731746" },
                 { title: "Challenge Lab: Data Secrets", type: "Lab", difficulty: "Medium", id: "30e7f465-e589-4d44-86eb-4d3fb17e1f5f" }
             ]
+        },
+        {
+            id: 'free-content',
+            title: 'Free Content',
+            description: 'Not ready for a paid subscription? Here is a list of free courses & labs.',
+            modules: 18,
+            difficultyRange: 'Easy to Hard',
+            courses: [
+                { title: "What Is Hack Smarter?", type: "Intro", difficulty: "Easy", id: "6a721825-9695-4aec-bc50-9e0361ff3b42" },
+                { title: "Guided Lab: NPM Supply Chain Attacks", type: "Lab", difficulty: "Easy", id: "16f4dfd6-7b60-4ba3-a050-d232d452da48" },
+                { title: "Guided Lab: Sliver Basics: Linux Implants", type: "Training", difficulty: "Easy", id: "553f9722-29e1-4ba1-b49a-5b631fc08a64" },
+                { title: "Guided Lab: Sliver Basics: Windows Implants", type: "Lab", difficulty: "Easy", id: "7ab147d1-2d2e-4624-82e8-d10d868c1cce" },
+                { title: "Challenge Lab: OWASP Juice Shop", type: "Lab", difficulty: "Easy", id: "24721a69-5dcc-4109-a1fa-7810e8c16ed6" },
+                { title: "Challenge Lab: Hunter", type: "Lab", difficulty: "Easy", id: "19723a54-6e4b-410e-b9e3-371f702e0f5c" },
+                { title: "Challenge Lab: Polution", type: "Lab", difficulty: "Easy", id: "1de73367-b278-41ba-a63c-83c2d510621c" },
+                { title: "Challenge Lab: SQL Basics", type: "Lab", difficulty: "Easy", id: "ecd76167-3ff0-4140-96b8-6405beb82799" },
+                { title: "Guided Lab: CORS Misconfigurations", type: "Lab", difficulty: "Easy", id: "faadf913-b0ba-424c-9cc5-63684879ed98" },
+                { title: "Challenge Lab: Race Conditions", type: "Lab", difficulty: "Medium", id: "f26a5a3e-e73d-43be-b880-be3ea20571d2" },
+                { title: "Challenge Lab: GitOops", type: "Lab", difficulty: "Medium", id: "d6c75815-8e7b-4d90-9ebf-c619176ae2d9" },
+                { title: "Challenge Lab: Exception", type: "Lab", difficulty: "Medium", id: "df65d37c-ed63-4eca-8f78-5dede200ec8e" },
+                { title: "Guided Lab: File Upload Attacks", type: "Lab", difficulty: "Easy", id: "164a2fad-5d1c-4045-a8cb-56dd0c6fad99" },
+                { title: "Guided Lab: IAM Enumeration", type: "Lab", difficulty: "Easy", id: "b6ead7c6-6e3a-4d12-b9fa-fcd58b037147" },
+                { title: "Challenge Lab: Data Secrets", type: "Lab", difficulty: "Medium", id: "30e7f465-e589-4d44-86eb-4d3fb17e1f5f" },
+                { title: "Hack With Me: AD, Vol. 1", type: "Training", difficulty: "Easy", id: "1efdeabd-71d8-4b0e-8225-2c4fd0abf5c1" },
+                { title: "Hack With Me: AD, Vol. 2", type: "Training", difficulty: "Easy", id: "90b450ac-ac73-46f7-83e2-f221043f016c" },
+                { title: "Hack With Me: Windows", type: "Training", difficulty: "Easy", id: "0b197e4f-6d58-4cf2-a445-6bc33d811a31" },
+
+            ]
         }
         // Additional paths can be added here
     ];
