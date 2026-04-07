@@ -25,33 +25,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 { title: "Range: DarkHaven", type: "Range", difficulty: "Medium", id: "46ed15ab-0904-4cae-8a2c-2e91ac6e0274" }
             ]
         },
-                {
-            id: 'oscp-prep',
-            title: 'OSCP Preparation',
-            description: 'Prepare for the OSCP certification based on LainKusanagi\'s list for Hack Smarter',
-            modules: 16,
-            difficultyRange: 'Easy to Hard',
-            courses: [
-                { title: "What Is Hack Smarter?", type: "Intro", difficulty: "Easy", id: "6a721825-9695-4aec-bc50-9e0361ff3b42" },
-                { title: "Challenge Lab: Ascension", type: "Lab", difficulty: "Easy", id: "191a82d2-26de-437d-8a5a-0f9192481fbc" },
-                { title: "Challenge Lab: Verbose", type: "Lab", difficulty: "Easy", id: "5018ef14-b136-4331-aef0-8fb0a88a3efb" },
-                { title: "Challenge Lab: Slayer", type: "Lab", difficulty: "Easy", id: "530c3910-9b4d-4983-949c-126a8587b4ed" },
-                { title: "Challenge Lab: PivotSmarter", type: "Lab", difficulty: "Easy", id: "f55c9746-5ea7-4da6-bfcf-6ac6e21b2921" },
-                { title: "Challenge Lab: Welcome", type: "Lab", difficulty: "Easy", id: "3d1021e5-39bf-41a6-8120-0d9b3e9c5431" },
-                { title: "Challenge Lab: Arasaka", type: "Lab", difficulty: "Easy", id: "f618f837-3060-40a3-81cf-31beeaadf37a" },
-                { title: "Challenge Lab: BankSmarter", type: "Lab", difficulty: "Medium", id: "c90bd016-24a5-4776-9f35-819062c51f6f" },
-                { title: "Challenge Lab: Talisman", type: "Lab", difficulty: "Medium", id: "5e5b9833-e6be-4fa0-aa4d-efd3086a612c" },
-                { title: "Challenge Lab: Exception", type: "Lab", difficulty: "Medium", id: "df65d37c-ed63-4eca-8f78-5dede200ec8e" },
-                { title: "Challenge Lab: ShareThePain", type: "Lab", difficulty: "Medium", id: "63bc86e1-3ab3-43be-b32e-62a676e6dee7" },                
-                { title: "Challenge Lab: Sysco", type: "Lab", difficulty: "Medium", id: "18876893-1afd-443f-b448-0681b13e86ec" },
-                { title: "Challenge Lab: Anomaly", type: "Lab", difficulty: "Medium", id: "336f34fa-2097-4b41-9e05-16698e68dcea" },
-                { title: "Challenge Lab: Lumon Industries", type: "Lab", difficulty: "Medium", id: "a952a025-4b22-47cd-bd75-d92cf5e524e9" },
-                { title: "Challenge Lab: 404 Bank", type: "Lab", difficulty: "Medium", id: "bd8a0659-8afe-40b4-9e95-0fe932850773" },
-                { title: "Challenge Lab: Odyssey", type: "Lab", difficulty: "Hard", id: "1205dc56-4441-47f0-b7d0-47b2113c43dc" }
-
-
-            ]
-        },
         {
             id: 'web-hacking',
             title: 'Web Application Hacking',
@@ -70,6 +43,33 @@ document.addEventListener('DOMContentLoaded', () => {
                 { title: "Challenge Lab: Implicit", type: "Lab", difficulty: "Easy", id: "37e66768-0973-4a1b-9ae6-ba74ac8af201" },
                 { title: "Challenge Lab: Static", type: "Lab", difficulty: "Medium", id: "bdd3ca9e-085d-4562-9d5c-3a7eac731746" },
                 { title: "Challenge Lab: Race Conditions", type: "Lab", difficulty: "Medium", id: "f26a5a3e-e73d-43be-b880-be3ea20571d2" }
+            ]
+        },
+        {
+            id: 'oscp-prep',
+            title: 'OSCP Preparation',
+            description: 'Prepare for the OSCP certification based on LainKusanagi\'s list for Hack Smarter',
+            modules: 16,
+            difficultyRange: 'Easy to Hard',
+            courses: [
+                { title: "What Is Hack Smarter?", type: "Intro", difficulty: "Easy", id: "6a721825-9695-4aec-bc50-9e0361ff3b42" },
+                { title: "Challenge Lab: Ascension", type: "Lab", difficulty: "Easy", id: "191a82d2-26de-437d-8a5a-0f9192481fbc" },
+                { title: "Challenge Lab: Verbose", type: "Lab", difficulty: "Easy", id: "5018ef14-b136-4331-aef0-8fb0a88a3efb" },
+                { title: "Challenge Lab: Slayer", type: "Lab", difficulty: "Easy", id: "530c3910-9b4d-4983-949c-126a8587b4ed" },
+                { title: "Challenge Lab: PivotSmarter", type: "Lab", difficulty: "Easy", id: "f55c9746-5ea7-4da6-bfcf-6ac6e21b2921" },
+                { title: "Challenge Lab: Welcome", type: "Lab", difficulty: "Easy", id: "3d1021e5-39bf-41a6-8120-0d9b3e9c5431" },
+                { title: "Challenge Lab: Arasaka", type: "Lab", difficulty: "Easy", id: "f618f837-3060-40a3-81cf-31beeaadf37a" },
+                { title: "Challenge Lab: BankSmarter", type: "Lab", difficulty: "Medium", id: "c90bd016-24a5-4776-9f35-819062c51f6f" },
+                { title: "Challenge Lab: Talisman", type: "Lab", difficulty: "Medium", id: "5e5b9833-e6be-4fa0-aa4d-efd3086a612c" },
+                { title: "Challenge Lab: Exception", type: "Lab", difficulty: "Medium", id: "df65d37c-ed63-4eca-8f78-5dede200ec8e" },
+                { title: "Challenge Lab: ShareThePain", type: "Lab", difficulty: "Medium", id: "63bc86e1-3ab3-43be-b32e-62a676e6dee7" },
+                { title: "Challenge Lab: Sysco", type: "Lab", difficulty: "Medium", id: "18876893-1afd-443f-b448-0681b13e86ec" },
+                { title: "Challenge Lab: Anomaly", type: "Lab", difficulty: "Medium", id: "336f34fa-2097-4b41-9e05-16698e68dcea" },
+                { title: "Challenge Lab: Lumon Industries", type: "Lab", difficulty: "Medium", id: "a952a025-4b22-47cd-bd75-d92cf5e524e9" },
+                { title: "Challenge Lab: 404 Bank", type: "Lab", difficulty: "Medium", id: "bd8a0659-8afe-40b4-9e95-0fe932850773" },
+                { title: "Challenge Lab: Odyssey", type: "Lab", difficulty: "Hard", id: "1205dc56-4441-47f0-b7d0-47b2113c43dc" }
+
+
             ]
         },
         {
