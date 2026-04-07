@@ -281,6 +281,10 @@ h1, h2, h3, h4, h5 {
     overflow: hidden;
 }
 
+.path-section.expanded .path-content > div {
+    overflow: visible;
+}
+
 .path-section.expanded .path-content {
     grid-template-rows: 1fr;
 }
@@ -383,6 +387,7 @@ h1, h2, h3, h4, h5 {
 
 a.timeline-content:hover {
     transform: translateY(-5px) scale(1.02);
+    transform-origin: left center;
     border-color: var(--brand-primary);
     background: var(--bg-surface-hover);
     box-shadow: 0 10px 30px -10px rgba(124, 58, 237, 0.3);
