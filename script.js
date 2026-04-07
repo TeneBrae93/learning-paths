@@ -261,8 +261,13 @@ window.togglePath = function (sectionElement) {
 
     sectionElement.classList.toggle('expanded');
 
-    // Trigger scroll logic so progress line updates immediately on expand
-    if (!isExpanded) {
+    if (isExpanded) {
+        // Collapsing: reset timeline item visibility so they animate in again on re-expand
+        sectionElement.querySelectorAll('.timeline-item').forEach(item => {
+            item.classList.remove('visible', 'active');
+        });
+    } else {
+        // Expanding: trigger scroll logic so progress line updates immediately
         setTimeout(() => window.dispatchEvent(new Event('scroll')), 400);
     }
 };
