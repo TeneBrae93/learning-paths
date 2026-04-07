@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Free Content',
             description: 'Not ready for a paid subscription? Here is a list of free courses & labs.',
             modules: 18,
-            difficultyRange: 'Easy to Hard',
+            difficultyRange: 'Easy to Medium',
             courses: [
                 { title: "What Is Hack Smarter?", type: "Intro", difficulty: "Easy", id: "6a721825-9695-4aec-bc50-9e0361ff3b42" },
                 { title: "Guided Lab: NPM Supply Chain Attacks", type: "Lab", difficulty: "Easy", id: "16f4dfd6-7b60-4ba3-a050-d232d452da48" },
