@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 'active-directory',
             title: 'Active Directory Hacking',
             description: 'From foundational concepts to highly complex, multi-machine active directory networks.',
-            modules: 16,
+            modules: 14,
             difficultyRange: 'Easy to Hard',
             courses: [
                 { title: "What Is Hack Smarter?", type: "Intro", difficulty: "Easy", id: "6a721825-9695-4aec-bc50-9e0361ff3b42" },
