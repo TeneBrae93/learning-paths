@@ -8,8 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
             difficultyRange: 'Easy to Hard',
             courses: [
                 { title: "What Is Hack Smarter?", type: "Intro", difficulty: "Easy", id: "6a721825-9695-4aec-bc50-9e0361ff3b42" },
-                { title: "Hack With Me: AD, Vol. 1", type: "Training", difficulty: "Easy", id: "1efdeabd-71d8-4b0e-8225-2c4fd0abf5c1" },
-                { title: "Hack With Me: AD, Vol. 2", type: "Training", difficulty: "Easy", id: "90b450ac-ac73-46f7-83e2-f221043f016c" },
                 { title: "Hack With Me: AD, Vol. 3", type: "Training", difficulty: "Easy", id: "7ee340aa-68ab-47da-b529-1590a71df378" },
                 { title: "Hack With Me: AD, Vol. 4", type: "Training", difficulty: "Easy", id: "44957585-a851-4728-858e-6916c2ef34c0" },
                 { title: "Challenge Lab: Welcome", type: "Lab", difficulty: "Easy", id: "3d1021e5-39bf-41a6-8120-0d9b3e9c5431" },
