@@ -100,7 +100,7 @@ const PATHS_DATA = [
     {
         id: 'windows-hacking',
         title: 'Windows Hacking',
-        description: 'Learn to exploit Windows systems — from privilege escalation to post-exploitation techniques.',
+        description: 'Learn to exploit Windows systems - from privilege escalation to post-exploitation techniques.',
         icon: 'monitor',
         modules: 6,
         difficultyRange: 'Easy to Hard',
@@ -118,7 +118,7 @@ const PATHS_DATA = [
     {
         id: 'linux-hacking',
         title: 'Linux Hacking',
-        description: 'Master Linux exploitation — enumeration, privilege escalation, and real-world attack chains.',
+        description: 'Master Linux exploitation - enumeration, privilege escalation, and real-world attack chains.',
         icon: 'terminal',
         modules: 7,
         difficultyRange: 'Easy to Medium',
