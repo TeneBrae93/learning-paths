@@ -68,6 +68,7 @@ const PATHS_DATA = [
             { title: "Challenge Lab: PivotSmarter", type: "Lab", difficulty: "Easy", id: "f55c9746-5ea7-4da6-bfcf-6ac6e21b2921" },
             { title: "Challenge Lab: Welcome", type: "Lab", difficulty: "Easy", id: "3d1021e5-39bf-41a6-8120-0d9b3e9c5431" },
             { title: "Challenge Lab: Arasaka", type: "Lab", difficulty: "Easy", id: "f618f837-3060-40a3-81cf-31beeaadf37a" },
+            { title: "Challenge Lab: Samurai", type: "Lab", difficulty: "Easy", id: "3b3f3073-3242-4aee-9bcd-0fb058ce4e13" },
             { title: "Challenge Lab: BankSmarter", type: "Lab", difficulty: "Medium", id: "c90bd016-24a5-4776-9f35-819062c51f6f" },
             { title: "Challenge Lab: Talisman", type: "Lab", difficulty: "Medium", id: "5e5b9833-e6be-4fa0-aa4d-efd3086a612c" },
             { title: "Challenge Lab: Exception", type: "Lab", difficulty: "Medium", id: "df65d37c-ed63-4eca-8f78-5dede200ec8e" },
@@ -128,6 +129,7 @@ const PATHS_DATA = [
             { title: "What Is Hack Smarter?", type: "Intro", difficulty: "Easy", id: "6a721825-9695-4aec-bc50-9e0361ff3b42" },
             { title: "Guided Lab: Sliver Basics: Linux Implants", type: "Training", difficulty: "Easy", id: "553f9722-29e1-4ba1-b49a-5b631fc08a64" },
             { title: "Challenge Lab: Ascension", type: "Lab", difficulty: "Easy", id: "191a82d2-26de-437d-8a5a-0f9192481fbc" },
+            { title: "Challenge Lab: Samurai", type: "Lab", difficulty: "Easy", id: "3b3f3073-3242-4aee-9bcd-0fb058ce4e13" },
             { title: "Challenge Lab: BankSmarter", type: "Lab", difficulty: "Medium", id: "c90bd016-24a5-4776-9f35-819062c51f6f" },
             { title: "Challenge Lab: Talisman", type: "Lab", difficulty: "Medium", id: "5e5b9833-e6be-4fa0-aa4d-efd3086a612c" },
             { title: "Challenge Lab: GitOops", type: "Lab", difficulty: "Medium", id: "d6c75815-8e7b-4d90-9ebf-c619176ae2d9" },
@@ -164,6 +166,7 @@ const PATHS_DATA = [
             { title: "Hack With Me: AD, Vol. 1", type: "Training", difficulty: "Easy", id: "1efdeabd-71d8-4b0e-8225-2c4fd0abf5c1" },
             { title: "Hack With Me: AD, Vol. 2", type: "Training", difficulty: "Easy", id: "90b450ac-ac73-46f7-83e2-f221043f016c" },
             { title: "Hack With Me: Windows", type: "Training", difficulty: "Easy", id: "0b197e4f-6d58-4cf2-a445-6bc33d811a31" },
+            { title: "Challenge Lab: Samurai", type: "Lab", difficulty: "Easy", id: "3b3f3073-3242-4aee-9bcd-0fb058ce4e13" }
         ]
     }
 ];
