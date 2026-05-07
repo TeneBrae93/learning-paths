@@ -4,7 +4,7 @@ const PATHS_DATA = [
         title: 'Active Directory Hacking',
         description: 'From foundational concepts to highly complex, multi-machine active directory networks.',
         icon: 'shield',
-        modules: 16,
+        modules: 17,
         difficultyRange: 'Easy to Hard',
         color: '#7c3aed',
         colorLight: '#a78bfa',
