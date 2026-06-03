@@ -89,7 +89,7 @@ const PATHS_DATA = [
         title: 'AWS Hacking',
         description: 'Build fundamental skills in AWS Pentesting via courses and labs.',
         icon: 'cloud',
-        modules: 6,
+        modules: 7,
         difficultyRange: 'Easy to Medium',
         color: '#10b981',
         colorLight: '#6ee7b7',
