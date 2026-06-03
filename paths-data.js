@@ -99,7 +99,7 @@ const PATHS_DATA = [
             { title: "Challenge Lab: SNS Secrets", type: "Lab", difficulty: "Easy", id: "43ca88a5-6b2f-4a3f-86c2-93e3920779cd" },
             { title: "Guided Lab: IAM Enumeration", type: "Lab", difficulty: "Easy", id: "b6ead7c6-6e3a-4d12-b9fa-fcd58b037147" },
             { title: "Challenge Lab: Static", type: "Lab", difficulty: "Medium", id: "bdd3ca9e-085d-4562-9d5c-3a7eac731746" },
-            { title: "Challenge Lab: Data Secrets", type: "Lab", difficulty: "Medium", id: "30e7f465-e589-4d44-86eb-4d3fb17e1f5f" }
+            { title: "Challenge Lab: Data Secrets", type: "Lab", difficulty: "Medium", id: "30e7f465-e589-4d44-86eb-4d3fb17e1f5f" },
             { title: "Challenge Lab: Incognito Travel", type: "Lab", difficulty: "Medium", id: "10115bdd-ca15-49c4-b34c-670645fc55ab" }
         ]
     },
