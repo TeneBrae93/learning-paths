@@ -25,6 +25,7 @@ const PATHS_DATA = [
             { title: "Challenge Lab: Odyssey", type: "Lab", difficulty: "Hard", id: "1205dc56-4441-47f0-b7d0-47b2113c43dc" },
             { title: "Challenge Lab: Triathlon", type: "Lab", difficulty: "Hard", id: "13a55ed5-7562-4ca4-a025-4b2b49009d3c" },
             { title: "Challenge Lab: NovaCart", type: "Lab", difficulty: "Hard", id: "fbb9b1fe-c089-4de1-8717-7f337f0a9d0d" },
+            { title: "Range: BitStream", type: "Range", difficulty: "Easy", id: "fb110920-c214-4dd1-9055-dc271b4125b9" },
             { title: "Range: DarkHaven", type: "Range", difficulty: "Medium", id: "46ed15ab-0904-4cae-8a2c-2e91ac6e0274" }
         ]
     },
@@ -81,7 +82,8 @@ const PATHS_DATA = [
             { title: "Challenge Lab: Anomaly", type: "Lab", difficulty: "Medium", id: "336f34fa-2097-4b41-9e05-16698e68dcea" },
             { title: "Challenge Lab: Lumon Industries", type: "Lab", difficulty: "Medium", id: "a952a025-4b22-47cd-bd75-d92cf5e524e9" },
             { title: "Challenge Lab: 404 Bank", type: "Lab", difficulty: "Medium", id: "bd8a0659-8afe-40b4-9e95-0fe932850773" },
-            { title: "Challenge Lab: Odyssey", type: "Lab", difficulty: "Hard", id: "1205dc56-4441-47f0-b7d0-47b2113c43dc" }
+            { title: "Challenge Lab: Odyssey", type: "Lab", difficulty: "Hard", id: "1205dc56-4441-47f0-b7d0-47b2113c43dc" },
+            { title: "Range: BitStream", type: "Range", difficulty: "Easy", id: "fb110920-c214-4dd1-9055-dc271b4125b9" }
         ]
     },
     {
