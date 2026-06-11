@@ -21,6 +21,7 @@ const PATHS_DATA = [
             { title: "Challenge Lab: Sysco", type: "Lab", difficulty: "Medium", id: "18876893-1afd-443f-b448-0681b13e86ec" },
             { title: "Challenge Lab: Lumon Industries", type: "Lab", difficulty: "Medium", id: "a952a025-4b22-47cd-bd75-d92cf5e524e9" },
             { title: "Challenge Lab: Dismay", type: "Lab", difficulty: "Medium", id: "6b416ada-6326-4e1c-8193-b3becad55ecd" },
+            { title: "Challenge Lab: Past", type: "Lab", difficulty: "Medium", id: "e3a8e3b6-448e-4388-9832-ae1da184293e" },
             { title: "Challenge Lab: MidGarden2", type: "Lab", difficulty: "Hard", id: "da0b5de0-4949-4f3e-99a6-cc624b119acb" },
             { title: "Challenge Lab: NorthBridge Systems", type: "Lab", difficulty: "Hard", id: "1e19584b-4577-402d-a264-d6476d2d1b9b" },
             { title: "Challenge Lab: Odyssey", type: "Lab", difficulty: "Hard", id: "1205dc56-4441-47f0-b7d0-47b2113c43dc" },
