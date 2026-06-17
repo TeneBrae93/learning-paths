@@ -155,7 +155,7 @@ const PATHS_DATA = [
         title: 'Free Content',
         description: 'Not ready for a paid subscription? Here is a list of free courses & labs.',
         icon: 'gift',
-        modules: 21,
+        modules: 22,
         difficultyRange: 'Easy to Medium',
         color: '#ec4899',
         colorLight: '#f9a8d4',
@@ -181,7 +181,8 @@ const PATHS_DATA = [
             { title: "Hack With Me: AD, Vol. 1", type: "Training", difficulty: "Easy", id: "1efdeabd-71d8-4b0e-8225-2c4fd0abf5c1" },
             { title: "Hack With Me: AD, Vol. 2", type: "Training", difficulty: "Easy", id: "90b450ac-ac73-46f7-83e2-f221043f016c" },
             { title: "Hack With Me: Windows", type: "Training", difficulty: "Easy", id: "0b197e4f-6d58-4cf2-a445-6bc33d811a31" },
-            { title: "Challenge Lab: Samurai", type: "Lab", difficulty: "Easy", id: "3b3f3073-3242-4aee-9bcd-0fb058ce4e13" }
+            { title: "Challenge Lab: Samurai", type: "Lab", difficulty: "Easy", id: "3b3f3073-3242-4aee-9bcd-0fb058ce4e13" },
+            { title: "Challenge Lab: Gate Crasher", type: "Lab", difficulty: "Easy", id: "04dea9f8-3e46-410e-a6f8-a62d78d99a6d" }
         ]
     }
 ];
