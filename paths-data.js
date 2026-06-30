@@ -4,7 +4,7 @@ const PATHS_DATA = [
         title: 'Active Directory Hacking',
         description: 'From foundational concepts to highly complex, multi-machine active directory networks.',
         icon: 'shield',
-        modules: 18,
+        modules: 19,
         difficultyRange: 'Easy to Hard',
         color: '#7c3aed',
         colorLight: '#a78bfa',
@@ -27,6 +27,7 @@ const PATHS_DATA = [
             { title: "Challenge Lab: Odyssey", type: "Lab", difficulty: "Hard", id: "1205dc56-4441-47f0-b7d0-47b2113c43dc" },
             { title: "Challenge Lab: Triathlon", type: "Lab", difficulty: "Hard", id: "13a55ed5-7562-4ca4-a025-4b2b49009d3c" },
             { title: "Challenge Lab: NovaCart", type: "Lab", difficulty: "Hard", id: "fbb9b1fe-c089-4de1-8717-7f337f0a9d0d" },
+            { title: "Challenge Lab: NovaForge", type: "Lab", difficulty: "Hard", id: "6107e554-1c96-490e-92cb-e031d8e49aec" },
             { title: "Range: BitStream", type: "Range", difficulty: "Easy", id: "fb110920-c214-4dd1-9055-dc271b4125b9" },
             { title: "Range: DarkHaven", type: "Range", difficulty: "Medium", id: "46ed15ab-0904-4cae-8a2c-2e91ac6e0274" }
         ]
